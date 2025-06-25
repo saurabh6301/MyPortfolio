@@ -543,7 +543,7 @@ const App = () => {
                                                     </div>
                                                     <div>
                                                         <div className="font-medium text-gray-900 text-lg">Phone</div>
-                                                        <div className="text-gray-600">+91 6394374932</div>
+                                                        <div className="text-gray-600">+91 6306556983</div>
                                                     </div>
                                                 </div>
                                                 <div className="flex items-center space-x-4">
